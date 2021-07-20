@@ -71,7 +71,7 @@ public class atm1 {
          
     	 
     	 System.out.println("thank u for using this atm ");
-    	 System.out.println("please remove your card ");
+    	 System.out.println("have a nice day ");
     }
    
     
