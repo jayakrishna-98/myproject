@@ -13,7 +13,7 @@ public class atmI extends atm1
        int pin=1234;
 		atm1 a1=new atm1();
 		Scanner sc=new Scanner(System.in);
-		System.out.println("welcome to atm");
+		System.out.println("welcome to  hdfc atm");
 		System.out.println("please insert your card");
 		String n=sc.nextLine();
 		System.out.println("please enter your pin");
@@ -29,7 +29,7 @@ public class atmI extends atm1
 		}
 		else 
 		{
-			System.out.println("please enter valid pin");
+			System.out.println("please enter correct pin");
 			 System.exit(0);
 			
 		}
@@ -78,6 +78,7 @@ public class atmI extends atm1
              case 6:	 
             	 
              System.exit(0);
+	     case default :  System.exit(0);
          }
 }
 }
