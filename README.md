@@ -1,0 +1,2 @@
+# myproject
+this               ATM is an electronic device which allows a bank’s customer to make financial transactions in a public space & check their account balance at any time without the need for a human teller.  The customer is identified by a plastic ATM card with a magnetic stripe or a plastic smartcard with a chip.  Services available through an ATM ,Withdraw cash, Transfer money between accounts, obtain account balance and Make deposits of cash and checks.
