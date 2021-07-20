@@ -50,7 +50,7 @@ public class atmI extends atm1
             	 int c1=sc.nextInt();
             	 a1.balanceEnquiry();
             	 System.out.println("thank u for using this atm ");
-            	 System.out.println("please remove your card ");
+            	 System.out.println("visit again ");
             	 
             
              break;
